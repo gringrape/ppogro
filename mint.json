@@ -1,0 +1,17 @@
+{
+  "name": "ppogro",
+  "application": {
+    "title": "ppogro"
+  },
+  "external": {
+    "stylesheets": [
+      "assets/style.css"
+    ]
+  },
+  "source-directories": [
+    "source"
+  ],
+  "test-directories": [
+    "tests"
+  ]
+}
